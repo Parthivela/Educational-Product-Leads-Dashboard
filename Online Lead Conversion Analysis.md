@@ -1,16 +1,12 @@
 # Educational-Product-Leads-Dashboard
 This repository contains an interactive BI dashboard designed using Power BI to analyze online purchase leads for an educational product. It includes data visualizations, measures, and calculated columns to provide insights into lead sources, customer preferences, engagement levels, and conversion rates.
 
-Features
 
+FEATURES
 Interactive Dashboard: Visualizes key metrics such as total leads, conversion rate, and converted leads.
-
 Lead Source Analysis: Identifies and compares the effectiveness of various lead sources like Google, organic search, and direct traffic.
-
 Customer Segmentation: Analyzes customer preferences based on demographics, engagement, and country-specific trends.
-
 Customer Journey Analysis: Tracks page views and total time spent on the website to understand user behavior.
-
 Course Priorities by Country: Highlights regional preferences for different courses.
 
 
